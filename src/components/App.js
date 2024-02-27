@@ -25,7 +25,7 @@ const App = () => {
     <div>
         {/* Do not remove the main div */}
         
-        <h1>User Details</h1>
+       
       
         <Router>
           <Routes>

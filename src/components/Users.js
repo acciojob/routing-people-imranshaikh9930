@@ -9,7 +9,7 @@ function Users({users}) {
   return (
     <div>
 
-      <h1>Users</h1>
+      <h1>User Details</h1>
 
       <p><b>Name:</b>{selectedItem.name}</p>
       <p><b>UserName:</b>{selectedItem.username}</p>
